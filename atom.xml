@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Pommpy.github.io</id>
     <title>Pommpy&apos;s Blog</title>
-    <updated>2021-03-31T12:17:57.311Z</updated>
+    <updated>2021-04-13T13:33:51.780Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Pommpy.github.io"/>
     <link rel="self" href="https://Pommpy.github.io/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://Pommpy.github.io/images/avatar.png</logo>
     <icon>https://Pommpy.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Pommpy&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[第一篇博客！]]></title>
+        <id>https://Pommpy.github.io/post/di-yi-pian-bo-ke/</id>
+        <link href="https://Pommpy.github.io/post/di-yi-pian-bo-ke/">
+        </link>
+        <updated>2021-04-13T13:31:16.000Z</updated>
+        <content type="html"><![CDATA[<p>本人深感自己技术栈薄弱，只会 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>A</mi><mi>C</mi><mi>M</mi></mrow><annotation encoding="application/x-tex">ACM</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault">A</span><span class="mord mathdefault" style="margin-right:0.07153em;">C</span><span class="mord mathdefault" style="margin-right:0.10903em;">M</span></span></span></span> 的东东，因此决定以后慢慢拓展自己的技术栈，提升自己的项目经验。以后这里的博客就将记录一些技术上或者项目上的东西了，<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>A</mi><mi>C</mi><mi>M</mi></mrow><annotation encoding="application/x-tex">ACM</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault">A</span><span class="mord mathdefault" style="margin-right:0.07153em;">C</span><span class="mord mathdefault" style="margin-right:0.10903em;">M</span></span></span></span> 的就放在 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>C</mi><mi>S</mi><mi>D</mi><mi>N</mi></mrow><annotation encoding="application/x-tex">CSDN</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.07153em;">C</span><span class="mord mathdefault" style="margin-right:0.05764em;">S</span><span class="mord mathdefault" style="margin-right:0.02778em;">D</span><span class="mord mathdefault" style="margin-right:0.10903em;">N</span></span></span></span> 吧。<br>
+也不知道说啥好=.=，就这样吧！</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://Pommpy.github.io/post/hello-gridea/</id>
